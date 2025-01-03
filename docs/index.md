@@ -5,7 +5,7 @@ hide:
 ---
 
 # This is test Doc
-Containing the index of the pages
+Containing the index of the pages and tabs.
 
 ## Tab1 
 
