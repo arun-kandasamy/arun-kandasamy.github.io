@@ -1,7 +1,7 @@
-site_name: Test github pages
-site_url: https://test-github-doc.pages.github.io/
+site_name: arun-kandasamy
+site_url: https://arun-kandasamy.github.io/
 repo_url: https://github.com/arun-kandasamy/arun-kandasamy.github.io
-repo_name: test-github-doc
+repo_name: arun-kandasamy
 theme:
   icon:
     repo: fontawesome/brands/github
